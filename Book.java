@@ -5,6 +5,6 @@ public class Book {
 
         int miles = price / 20;
         System.out.println("Бонусные мили:" + miles);
-
     }
 }
+
